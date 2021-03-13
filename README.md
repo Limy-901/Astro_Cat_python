@@ -2,7 +2,7 @@
 
 <h2><b>🐱Astro Cat🐱</b></h2>
 - 개인
-- 2020.11. 3일 작업<br>
+- 2020.11. (3일간 작업)<br>
 - 파이썬, 터틀 라이브러리<br>
 <Youtube> <b>https://youtu.be/DA8I7XR8q30</b>
 <hr/>
